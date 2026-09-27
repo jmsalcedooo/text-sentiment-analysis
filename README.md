@@ -15,4 +15,4 @@ This project performs sentiment analysis on a dataset of tweets containing emoji
 
 ## 📁 Repository Structure
 * `text-sentiment-analysis.ipynb`: The complete Python codebase containing the emoji mapping, TF-IDF vectorization, model training, evaluation metrics, and the interactive widget.
-* `1k_data_emoji_tweets_senti_posneg.xlsx` / `.csv`: The dataset used for model training and testing.
+* `1k_data_emoji_tweets_senti_posneg.xlsx` / `15_emoticon_data.xlsx`: The datasets used for model training and testing.
